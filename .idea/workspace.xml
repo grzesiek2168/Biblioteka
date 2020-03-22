@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="515e82fa-8b87-4340-b624-b726c8f2feb5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/appBiblioteka/src/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/appBiblioteka/src/Library.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appBiblioteka/src/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/appBiblioteka/src/Book.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +21,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1ZUHG7QoF9eAL8CRZscKvUM5jL2" />
@@ -63,6 +68,21 @@
       <option name="presentableId" value="Default" />
       <updated>1584886654737</updated>
     </task>
+    <task id="LOCAL-00001" summary="Zamkniecie zadania#1 Incjalizacja projektu szkoleniowego">
+      <created>1584887600864</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1584887600864</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Zmiana wersji(rozbudowa aplikacji) na 0.3">
+      <created>1584889630116</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1584889630116</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -70,11 +90,18 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Zamkniecie zadania#1 Incjalizacja projektu szkoleniowego" />
+    <MESSAGE value="Zmiana wersji(rozbudowa aplikacji) na 0.3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Zmiana wersji(rozbudowa aplikacji) na 0.3" />
   </component>
   <component name="WindowStateProjectService">
     <state x="-1493" y="50" key="#Project_Structure" timestamp="1584887233404">
@@ -82,25 +109,45 @@
     </state>
     <state x="-1493" y="50" key="#Project_Structure/1440.-39.1280.954/0.23.1440.877/-1920.-75.1920.1057@-1920.-75.1920.1057" timestamp="1584887233404" />
     <state x="320" y="127" key="#Project_Structure/1440.-39.1280.954/0.23.1440.877/-1920.-75.1920.1057@0.23.1440.877" timestamp="1584886714308" />
-    <state width="1878" height="282" key="GridCell.Tab.0.bottom" timestamp="1584887302262">
+    <state x="-1147" y="176" key="#com.intellij.ide.util.MemberChooser" timestamp="1584889233512">
       <screen x="-1920" y="-75" width="1920" height="1057" />
     </state>
+    <state x="-1147" y="176" key="#com.intellij.ide.util.MemberChooser/1440.-39.1280.1001/0.23.1440.826/-1920.-75.1920.1057@-1920.-75.1920.1057" timestamp="1584889233512" />
+    <state x="-1315" y="54" key="CommitChangelistDialog2" timestamp="1584889629795">
+      <screen x="-1920" y="-75" width="1920" height="1057" />
+    </state>
+    <state x="-1315" y="54" key="CommitChangelistDialog2/1440.-39.1280.1001/0.23.1440.826/-1920.-75.1920.1057@-1920.-75.1920.1057" timestamp="1584889629795" />
+    <state width="1878" height="282" key="GridCell.Tab.0.bottom" timestamp="1584889703741">
+      <screen x="-1920" y="-75" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="282" key="GridCell.Tab.0.bottom/1440.-39.1280.1001/0.23.1440.826/-1920.-75.1920.1057@-1920.-75.1920.1057" timestamp="1584889703741" />
     <state width="1878" height="282" key="GridCell.Tab.0.bottom/1440.-39.1280.954/0.23.1440.877/-1920.-75.1920.1057@-1920.-75.1920.1057" timestamp="1584887302262" />
-    <state width="1878" height="282" key="GridCell.Tab.0.center" timestamp="1584887302260">
+    <state width="1878" height="282" key="GridCell.Tab.0.center" timestamp="1584889703739">
       <screen x="-1920" y="-75" width="1920" height="1057" />
     </state>
+    <state width="1878" height="282" key="GridCell.Tab.0.center/1440.-39.1280.1001/0.23.1440.826/-1920.-75.1920.1057@-1920.-75.1920.1057" timestamp="1584889703739" />
     <state width="1878" height="282" key="GridCell.Tab.0.center/1440.-39.1280.954/0.23.1440.877/-1920.-75.1920.1057@-1920.-75.1920.1057" timestamp="1584887302260" />
-    <state width="1878" height="282" key="GridCell.Tab.0.left" timestamp="1584887302258">
+    <state width="1878" height="282" key="GridCell.Tab.0.left" timestamp="1584889703737">
       <screen x="-1920" y="-75" width="1920" height="1057" />
     </state>
+    <state width="1878" height="282" key="GridCell.Tab.0.left/1440.-39.1280.1001/0.23.1440.826/-1920.-75.1920.1057@-1920.-75.1920.1057" timestamp="1584889703737" />
     <state width="1878" height="282" key="GridCell.Tab.0.left/1440.-39.1280.954/0.23.1440.877/-1920.-75.1920.1057@-1920.-75.1920.1057" timestamp="1584887302258" />
-    <state width="1878" height="282" key="GridCell.Tab.0.right" timestamp="1584887302261">
+    <state width="1878" height="282" key="GridCell.Tab.0.right" timestamp="1584889703740">
       <screen x="-1920" y="-75" width="1920" height="1057" />
     </state>
+    <state width="1878" height="282" key="GridCell.Tab.0.right/1440.-39.1280.1001/0.23.1440.826/-1920.-75.1920.1057@-1920.-75.1920.1057" timestamp="1584889703740" />
     <state width="1878" height="282" key="GridCell.Tab.0.right/1440.-39.1280.954/0.23.1440.877/-1920.-75.1920.1057@-1920.-75.1920.1057" timestamp="1584887302261" />
+    <state x="-1360" y="193" key="Vcs.Push.Dialog.v2" timestamp="1584889635389">
+      <screen x="-1920" y="-75" width="1920" height="1057" />
+    </state>
+    <state x="-1360" y="193" key="Vcs.Push.Dialog.v2/1440.-39.1280.1001/0.23.1440.826/-1920.-75.1920.1057@-1920.-75.1920.1057" timestamp="1584889635389" />
     <state x="149" y="84" key="new project wizard" timestamp="1584886758340">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="149" y="84" key="new project wizard/1440.-39.1280.954/0.23.1440.877/-1920.-75.1920.1057@0.23.1440.877" timestamp="1584886758340" />
+    <state x="-1295" y="160" key="search.everywhere.popup" timestamp="1584889199334">
+      <screen x="-1920" y="-75" width="1920" height="1057" />
+    </state>
+    <state x="-1295" y="160" key="search.everywhere.popup/1440.-39.1280.1001/0.23.1440.826/-1920.-75.1920.1057@-1920.-75.1920.1057" timestamp="1584889199334" />
   </component>
 </project>
