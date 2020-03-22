@@ -16,7 +16,7 @@ public class Library {
 
     public void printBooks() {
         if (booksNumber == 0) {
-            System.out.println("Brak ksiazek");
+            System.out.println("Brak ksiazek ");
         }
         for (int i = 0; i < booksNumber; i++) {
             books[i].printInfo();
