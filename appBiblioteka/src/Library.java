@@ -1,4 +1,11 @@
+/**
+ * The main class of the library application.
+ */
 public class Library {
+    /**
+     * The main method of the library application.
+     * @param args The command line arguments.
+     */
     public static void main(String[] args) {
 
         final String appName = "Biblioteka ver 0.3";
